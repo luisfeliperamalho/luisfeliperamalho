@@ -18,7 +18,7 @@ Eu gosto de:
 - ⚽ Jogar Futebol
 - 🥊 Praticar Boxe
 
-## Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Possuo conhecimento prévio em algumas tecnologias como:
 
