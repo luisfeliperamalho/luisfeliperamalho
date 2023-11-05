@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá pessoal! Bem vindos ao meu perfil!
 
-<!--
-**luisfeliperamalho/luisfeliperamalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciei minha carreira com desenvolvimento mobile com o framework Flutter há 3 anos. Atualmente estou estudando C# para atuar como backend em .NET.
 
-Here are some ideas to get you started:
+Eu gosto de:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Jogar videogames
+📺 Assistir filmes
+🍖 Churrasco
+👪 Passar tempo com minha família
+💻 Estudar
+⚽ Jogar Futebol
+🥊 Praticar Boxe
+
+## Ferramentas e Tecnologias
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
