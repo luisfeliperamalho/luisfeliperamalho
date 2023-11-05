@@ -6,7 +6,7 @@
 
 ## Olá pessoal! Bem vindos ao meu perfil!
 
-Iniciei minha carreira com desenvolvimento mobile com o framework Flutter há 3 anos. Atualmente estou estudando C# para atuar como backend em .NET.
+Iniciei minha carreira com desenvolvimento mobile com o framework Flutter há 3 anos no qual ainda estou atuando diariamente. Atualmente estou estudando C# para atuar como backend em .NET.
 
 Eu gosto de:
 
