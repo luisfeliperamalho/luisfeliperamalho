@@ -11,16 +11,6 @@ Sou formado em Gestão de Tecnologia da Informação.
 Iniciei minha carreira com desenvolvimento mobile com o framework Flutter há cerca de 3 anos. Atualmente realizo atividades como: Desenvolvimento e manutenção de aplicativos, criação de telas, consumo de dados em API's, auxílio nas publicações dos aplicativos na Google Store e Apple Store.
 Estou estudando C# e .NET para atuar como backend.
 
-Eu gosto de:
-
-- 🎮 Jogar videogames
-- 📺 Assistir filmes
-- 🍖 Churrasco
-- 👪 Passar tempo com minha família
-- 💻 Estudar
-- ⚽ Jogar Futebol
-- 🥊 Praticar Boxe
-
 ### Ferramentas e Tecnologias
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Possuo conhecimento prévio em algumas tecnologias como:
